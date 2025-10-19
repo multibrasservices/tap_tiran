@@ -7,7 +7,7 @@ Ce projet est une page web simple, hébergée sur GitHub Pages, qui a pour but d
 ## Déploiement
 
 La page est visible à l'adresse suivante :
-**https://multibrasservices.github.io/tap_tiran/**
+**https://multibrasservices.github.io/tap_titan/**
 
 *(Pensez à remplacer `[VOTRE-NOM-UTILISATEUR]` et `[NOM-DU-DEPOT]` par vos informations)*
 
